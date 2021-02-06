@@ -1,7 +1,9 @@
-### About 🐥
--Sungshin W. Univ Information Systems Engineering 
--Interest: Web / Server
+# Sungmin🐥
+### About 
+- Sungshin W. Univ Information Systems Engineering 
+- Interest: Web / Server
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icechocola05)](https://github.com/icechocola05/github-readme-stats)
 
 <div align=center>
  
