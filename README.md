@@ -2,9 +2,10 @@
 -Sungshin W. Univ Information Systems Engineering 
 -Interest: Web / Server
 
+
 <div align=center>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BE95FF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chocola__lee)](https://www.instagram.com/chocola__lee) 
-  
+ 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-BE95FF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chocola__lee)](https://www.instagram.com/chocola__lee)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FC60A8?style=flat-square&logo=Gmail&logoColor=white&link=icechocola@gmail.com)](icechocola@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficechocola05&count_bg=%23F0C6F5&title_bg=%23EDDFDF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
