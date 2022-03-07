@@ -4,8 +4,6 @@
 
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icechocola05)](https://github.com/icechocola05/github-readme-stats)
-
 
  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BE95FF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chocola__lee)](https://www.instagram.com/chocola__lee)
